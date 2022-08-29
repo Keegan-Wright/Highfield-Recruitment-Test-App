@@ -1,0 +1,2 @@
+C:\Users\Keegan\source\repos\highfieldrecruitmenttestreact\obj\Debug\Highfield Recuitment Test UI.esproj.SuggestedBindingRedirects.cache
+C:\Users\Keegan\source\repos\highfieldrecruitmenttestreact\obj\Debug\Highfield Recuitment Test UI.esproj.CoreCompileInputs.cache
