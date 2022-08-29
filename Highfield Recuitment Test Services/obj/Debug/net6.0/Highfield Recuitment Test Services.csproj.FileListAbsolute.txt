@@ -1,0 +1,15 @@
+C:\Users\Keegan\source\repos\Highfield Recuitment Test Services\obj\Debug\net6.0\Highfield Recuitment Test Services.csproj.AssemblyReference.cache
+C:\Users\Keegan\source\repos\Highfield Recuitment Test Services\obj\Debug\net6.0\Highfield Recuitment Test Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keegan\source\repos\Highfield Recuitment Test Services\obj\Debug\net6.0\Highfield Recuitment Test Services.AssemblyInfoInputs.cache
+C:\Users\Keegan\source\repos\Highfield Recuitment Test Services\obj\Debug\net6.0\Highfield Recuitment Test Services.AssemblyInfo.cs
+C:\Users\Keegan\source\repos\Highfield Recuitment Test Services\obj\Debug\net6.0\Highfield Recuitment Test Services.csproj.CoreCompileInputs.cache
+C:\Users\Keegan\source\repos\Highfield Recuitment Test Services\bin\Debug\net6.0\Highfield Recuitment Test Services.deps.json
+C:\Users\Keegan\source\repos\Highfield Recuitment Test Services\bin\Debug\net6.0\Highfield Recuitment Test Services.dll
+C:\Users\Keegan\source\repos\Highfield Recuitment Test Services\bin\Debug\net6.0\Highfield Recuitment Test Services.pdb
+C:\Users\Keegan\source\repos\Highfield Recuitment Test Services\bin\Debug\net6.0\Highfield Recuitment Test Models.dll
+C:\Users\Keegan\source\repos\Highfield Recuitment Test Services\bin\Debug\net6.0\Highfield Recuitment Test Models.pdb
+C:\Users\Keegan\source\repos\Highfield Recuitment Test Services\obj\Debug\net6.0\Highfield Recuitment Test Services.csproj.CopyComplete
+C:\Users\Keegan\source\repos\Highfield Recuitment Test Services\obj\Debug\net6.0\Highfield Recuitment Test Services.dll
+C:\Users\Keegan\source\repos\Highfield Recuitment Test Services\obj\Debug\net6.0\refint\Highfield Recuitment Test Services.dll
+C:\Users\Keegan\source\repos\Highfield Recuitment Test Services\obj\Debug\net6.0\Highfield Recuitment Test Services.pdb
+C:\Users\Keegan\source\repos\Highfield Recuitment Test Services\obj\Debug\net6.0\ref\Highfield Recuitment Test Services.dll

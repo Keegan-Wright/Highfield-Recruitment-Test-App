@@ -1,0 +1,32 @@
+C:\Users\Keegan\source\repos\Highfield Recruitment Test API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Keegan\source\repos\Highfield Recruitment Test API\bin\Debug\net6.0\appsettings.json
+C:\Users\Keegan\source\repos\Highfield Recruitment Test API\bin\Debug\net6.0\Highfield Recruitment Test API.exe
+C:\Users\Keegan\source\repos\Highfield Recruitment Test API\bin\Debug\net6.0\Highfield Recruitment Test API.deps.json
+C:\Users\Keegan\source\repos\Highfield Recruitment Test API\bin\Debug\net6.0\Highfield Recruitment Test API.runtimeconfig.json
+C:\Users\Keegan\source\repos\Highfield Recruitment Test API\bin\Debug\net6.0\Highfield Recruitment Test API.dll
+C:\Users\Keegan\source\repos\Highfield Recruitment Test API\bin\Debug\net6.0\Highfield Recruitment Test API.pdb
+C:\Users\Keegan\source\repos\Highfield Recruitment Test API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Keegan\source\repos\Highfield Recruitment Test API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Keegan\source\repos\Highfield Recruitment Test API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Keegan\source\repos\Highfield Recruitment Test API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Keegan\source\repos\Highfield Recruitment Test API\obj\Debug\net6.0\Highfield Recruitment Test API.csproj.AssemblyReference.cache
+C:\Users\Keegan\source\repos\Highfield Recruitment Test API\obj\Debug\net6.0\Highfield Recruitment Test API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keegan\source\repos\Highfield Recruitment Test API\obj\Debug\net6.0\Highfield Recruitment Test API.AssemblyInfoInputs.cache
+C:\Users\Keegan\source\repos\Highfield Recruitment Test API\obj\Debug\net6.0\Highfield Recruitment Test API.AssemblyInfo.cs
+C:\Users\Keegan\source\repos\Highfield Recruitment Test API\obj\Debug\net6.0\Highfield Recruitment Test API.csproj.CoreCompileInputs.cache
+C:\Users\Keegan\source\repos\Highfield Recruitment Test API\obj\Debug\net6.0\Highfield Recruitment Test API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Keegan\source\repos\Highfield Recruitment Test API\obj\Debug\net6.0\Highfield Recruitment Test API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Keegan\source\repos\Highfield Recruitment Test API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Keegan\source\repos\Highfield Recruitment Test API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Keegan\source\repos\Highfield Recruitment Test API\obj\Debug\net6.0\scopedcss\bundle\Highfield Recruitment Test API.styles.css
+C:\Users\Keegan\source\repos\Highfield Recruitment Test API\obj\Debug\net6.0\Highfield Recruitment Test API.csproj.CopyComplete
+C:\Users\Keegan\source\repos\Highfield Recruitment Test API\obj\Debug\net6.0\Highfield Recruitment Test API.dll
+C:\Users\Keegan\source\repos\Highfield Recruitment Test API\obj\Debug\net6.0\refint\Highfield Recruitment Test API.dll
+C:\Users\Keegan\source\repos\Highfield Recruitment Test API\obj\Debug\net6.0\Highfield Recruitment Test API.pdb
+C:\Users\Keegan\source\repos\Highfield Recruitment Test API\obj\Debug\net6.0\Highfield Recruitment Test API.genruntimeconfig.cache
+C:\Users\Keegan\source\repos\Highfield Recruitment Test API\obj\Debug\net6.0\ref\Highfield Recruitment Test API.dll
+C:\Users\Keegan\source\repos\Highfield Recruitment Test API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Keegan\source\repos\Highfield Recruitment Test API\bin\Debug\net6.0\Highfield Recuitment Test Models.dll
+C:\Users\Keegan\source\repos\Highfield Recruitment Test API\bin\Debug\net6.0\Highfield Recuitment Test Services.dll
+C:\Users\Keegan\source\repos\Highfield Recruitment Test API\bin\Debug\net6.0\Highfield Recuitment Test Models.pdb
+C:\Users\Keegan\source\repos\Highfield Recruitment Test API\bin\Debug\net6.0\Highfield Recuitment Test Services.pdb
